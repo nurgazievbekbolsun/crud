@@ -1,0 +1,22 @@
+.line {
+    text-decoration: line-through;
+}
+body{
+    background: #595946;
+}
+table tr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 0% 20%;
+    background: black;
+    color: #ff0000;
+    font-size: 18px;
+    padding: 10px 10px;
+    border-radius:8px ;
+}
+.input{
+    caret-color: red;
+}
+

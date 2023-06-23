@@ -1,0 +1,27 @@
+
+body{
+    background: blueviolet;
+}
+ tr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 1px 20%;
+    background: #9f8383;
+    color: #ff0000;
+    font-size: 18px;
+    padding: 10px 10px;
+    border-radius:8px ;
+}
+.input1{
+    caret-color: red;
+}.input2{
+    caret-color: #00ffd0;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
